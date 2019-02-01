@@ -24,7 +24,7 @@ const daysOfChristmas = {
   day9: "Eight maids a-milking,",
   day10: "Nine ladies dancing,",
   day11: "Ten lords a-leaping,",
-  day12: "Six geese a-laying"
+  day12: "Two turtle doves,"
 };
 
 // Real song lyrics
