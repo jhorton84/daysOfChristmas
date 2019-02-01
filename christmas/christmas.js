@@ -21,10 +21,10 @@ const daysOfChristmas = {
   day6: "",
   day7: "",
   day8: "",
-  day9: "",
-  day10: "",
-  day11: "",
-  day12: ""
+  day9: "Nine ladies dancing",
+  day10: "Ten lords a-leaping",
+  day11: "Eleven pipers piping",
+  day12: "Twelve drummers drumming"
 };
 
 // Real song lyrics
