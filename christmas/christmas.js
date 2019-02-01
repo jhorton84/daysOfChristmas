@@ -17,14 +17,14 @@ const daysOfChristmas = {
   day2: "Eight maids a-milking,",
   day3: "Three french hens,",
   day4: "Twelve drummers drumming.",
-  day5: "Seven swans a-swimming,",
-  day6: "Eleven pipers piping,",
-  day7: "A partridge in a pear tree,",
+  day5: "",
+  day6: "",
+  day7: "",
   day8: "Two turtle doves,",
   day9: "Eight maids a-milking,",
   day10: "Nine ladies dancing,",
   day11: "Ten lords a-leaping,",
-  day12: "Six geese a-laying"``
+  day12: "Six geese a-laying"
 };
 
 // Real song lyrics
